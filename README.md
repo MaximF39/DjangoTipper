@@ -15,4 +15,6 @@ Apps:
 # Example
 
 Tripper
+![TripperModel](docs/Tripper.png)
+TripperModel
 ![TripperModel](docs/TripperModel.png)
