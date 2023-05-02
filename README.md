@@ -20,6 +20,9 @@ Apps:
 1. django_admin_listfilter_dropdown 
 2. public_admin (view ModelAdmin)
 
+Link for view model admin:  
+http://127.0.0.1:8000/logistic/view/logistic/tipper
+
 # Example
 
 TripperModel
