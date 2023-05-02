@@ -1,5 +1,6 @@
 asgiref==3.6.0
 Django==4.2
 django-admin-list-filter-dropdown==1.0.3
+django-public-admin==0.0.5
 sqlparse==0.4.4
 tzdata==2023.3
